@@ -52,6 +52,7 @@ I just made this so I don't have to search for songs for my friends.
 
 * [discord.js](https://discord.js.org/)
 * [/Create](https://www.npmjs.com/package/slash-create)
+* [audd.io](https://audd.io)
 
 
 
