@@ -6,7 +6,7 @@ const { Client } = require("discord.js");
 dotenv.config();
 
 const client = new Client({
-  intents: ["GUILDS", "GUILD_VOICE_STATES", "GUILD_MESSAGES"],
+  intents: ["GUILDS", "GUILD_MESSAGES"],
 });
 
 const creator = new SlashCreator({
