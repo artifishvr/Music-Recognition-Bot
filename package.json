@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Music Recognition Bot",
     "main": "index.js",
-    "repository": "",
+    "repository": "https://github.com/artificialbutter/Music-Recognition-Bot",
     "author": "ArtificialButter",
     "license": "GPL",
     "scripts": {
