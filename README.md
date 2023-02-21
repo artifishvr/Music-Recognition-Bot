@@ -1,3 +1,5 @@
+<h1> no longer developed. check out https://pigeonburger.xyz/songfinderbot </h1>
+
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
